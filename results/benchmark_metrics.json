@@ -1,0 +1,26 @@
+{
+    "MobileNetV2": {
+        "accuracy": 0.8923,
+        "precision_macro": 0.8617,
+        "recall_macro": 0.8579,
+        "f1_macro": 0.8577,
+        "train_time_sec": 1512.5,
+        "model_size_mb": 18.88
+    },
+    "ResNet50": {
+        "accuracy": 0.9084,
+        "precision_macro": 0.869,
+        "recall_macro": 0.8589,
+        "f1_macro": 0.8613,
+        "train_time_sec": 3370.3,
+        "model_size_mb": 159.54
+    },
+    "VGG19": {
+        "accuracy": 0.8601,
+        "precision_macro": 0.8373,
+        "recall_macro": 0.8145,
+        "f1_macro": 0.8108,
+        "train_time_sec": 3039.3,
+        "model_size_mb": 76.68
+    }
+}
