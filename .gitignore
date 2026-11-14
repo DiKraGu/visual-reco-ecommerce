@@ -1,0 +1,16 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Données brutes, index vectoriels et modèles entraînés
+data/
+models/
+*.keras
+*.h5
+*.npy
+*.pkl
+
+# Fichiers temporaires Python et VS Code
+__pycache__/
+*.py[cod]
+.vscode/
